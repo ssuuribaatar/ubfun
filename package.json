@@ -1,5 +1,5 @@
 {
-  "name": "footballkik",
+  "name": "ubfun",
   "version": "1.0.0",
   "description": "A chat application built with node, mongodb, express and socket.io",
   "main": "index.js",
@@ -14,34 +14,34 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uzochukwueddie/footballkik.git"
+    "url": "git+https://github.com/ssuuribaatar/ubfun.git"
   },
-  "author": "Uzochukwu Eddie Odozi",
+  "author": "S",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uzochukwueddie/footballkik/issues"
+    "url": "https://github.com/ssuuribaatar/ubfun/issues"
   },
-  "homepage": "https://github.com/uzochukwueddie/footballkik#readme",
+  "homepage": "https://github.com/ssuuribaatar/ubfun#readme",
   "dependencies": {
     "async": "^2.5.0",
     "aws-sdk": "^2.98.0",
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.18.2",
     "compression": "^1.7.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^1.3.2",
     "cookie-parser": "^1.4.3",
     "dependable": "^0.2.5",
-    "ejs": "^2.5.7",
-    "express": "^4.15.3",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
     "express-promise-router": "^2.0.0",
-    "express-session": "^1.15.4",
+    "express-session": "^1.15.6",
     "express-validator": "^3.2.1",
     "forever": "^0.15.3",
     "formidable": "^1.1.1",
     "helmet": "^3.8.1",
-    "lodash": "^4.17.4",
-    "mongoose": "^4.11.4",
+    "lodash": "^4.17.5",
+    "mongoose": "^4.13.12",
     "multer": "^1.3.0",
     "multer-s3": "^2.7.0",
     "passport": "^0.3.2",
@@ -49,5 +49,6 @@
     "passport-google-oauth": "^1.0.0",
     "passport-local": "^1.0.0",
     "socket.io": "^2.0.3"
-  }
+  },
+  "devDependencies": {}
 }
