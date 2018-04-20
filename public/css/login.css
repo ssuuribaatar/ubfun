@@ -223,7 +223,7 @@ footer .container .text-muted {
 }
 
 .btn-facebook{
-    background: #ff4d4d;
+    background:	#3b5998;
     border-radius: 0;
     color: #fff;
     width: 100px;
@@ -232,11 +232,11 @@ footer .container .text-muted {
 .btn-facebook:link, .btn-facebook:visited {
     color: #fff;
     text-decoration: none;
-    background: #ff4d4d;
+    background:	#3b5998;
 }
 
 .btn-facebook:active, .btn-facebook:hover {
-    background: #ff4d4d;
+    background: #4d9aff;
     color: #fff;
 }
 

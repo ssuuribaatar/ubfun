@@ -10,4 +10,4 @@ const clubNames = mongoose.Schema({
     }]
 });
 
-module.exports = mongoose.model('Club', clubNames);
+module.exports = mongoose.model('Clubs', clubNames);

@@ -24,7 +24,7 @@
   "homepage": "https://github.com/ssuuribaatar/ubfun#readme",
   "dependencies": {
     "async": "^2.5.0",
-    "aws-sdk": "^2.224.1",
+    "aws-sdk": "^2.225.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
     "compression": "^1.7.2",
