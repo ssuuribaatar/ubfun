@@ -1,11 +1,11 @@
 module.exports = function(){
     return {
         SetRouting: function(router){
-            router.get('/latest-football-news', this.footbalNews);
+            router.get('/latest-football-news', this.News);
         },
         
-        footbalNews: function(req, res){
-            res.render('news/footballnews', {title: 'Footballkik - Latest News', user: req.user});
+        News: function(req, res){
+            res.render('news/footballnews', {title: 'Ubfun - Latest News', user: req.user});
         }
     }
 }

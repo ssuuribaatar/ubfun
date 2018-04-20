@@ -6,7 +6,7 @@ body {
 }
 
 .navbar{
-    background-color: #4aa1f3;
+    background-color: #ff4d4d;
 }
 
 .navbar-default .navbar-brand{
@@ -18,19 +18,19 @@ body {
 
 .navbar-brand:hover{
     color: #ffffff !important;
-    background-color: #4aa1f3 !important;
+    background-color: #ff4d4d !important;
 }
 
 .navbar-default .navbar-nav > li > a{
     color: #fff !important;
-    background-color: #4aa1f3 !important;
+    background-color: #ff4d4d !important;
     font-size: 16px;
     font-weight: bold;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
     color: #fff !important;
-    background-color: #4aa1f3 !important;
+    background-color: #ff4d4d !important;
 }
 
 #custom-search-input {
@@ -85,7 +85,7 @@ body {
 }
 
 .input-btn {
-    background: #4aa1f3;
+    background: #ff4d4d;
     border-top-right-radius: 25px !important;
     border-bottom-right-radius: 25px !important;
     padding-left: 23px;
@@ -106,7 +106,7 @@ body {
 }
 
 .add-apply{
-    background: #4aa1f3;
+    background: #ff4d4d;
     width: 100%;
     text-shadow: none;
     color: #ffffff !important;
@@ -115,7 +115,7 @@ body {
 }
 
 .add-fav{
-    background: #4aa1f3;
+    background: #ff4d4d;
     width: 100%;
     text-shadow: none;
     color: #ffffff !important;
@@ -149,7 +149,7 @@ body {
 }
 
 .dropdown-tag {
-    background: #03A9F4;
+    background: #ff4d4d;
     color: white;
     padding: 4px;
     margin-bottom: 15px;
@@ -174,8 +174,8 @@ body {
 }
 
 .drop-accept {
-    background: #4aa1f3 !important;
-    border: #3bb5ec;
+    background: #ff4d4d !important;
+    border: #ff4d4d;
     color: white !important;
     text-shadow: none;
 }

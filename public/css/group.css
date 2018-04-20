@@ -25,7 +25,7 @@ h3 {
 }
 
 .navbar{
-    background: #4aa1f3;
+    background: #ff4d4d;
 }
 
 .navbar-default .navbar-brand {
@@ -38,19 +38,19 @@ h3 {
 
 .navbar-brand:hover{
     color: #fff !important;
-    background-color: #4aa1f3;
+    background-color: #ff4d4d;
 }
 
 .navbar-default .navbar-nav > li > a {
     color: #fff !important;
-    background-color: #4aa1f3;
+    background-color: #ff4d4d;
     font-size: 16px;
     font-weight: bold;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
     color: #fff !important;
-    background-color: #4aa1f3;
+    background-color: #ff4d4d;
 }
 
 .dropdown-toggle:active, .open .dropdown-toggle {
@@ -68,7 +68,7 @@ h3 {
     border: medium none;
     outline: 0;
     font-size: 17px;
-    color: #4aa1f3;
+    color: #ff4d4d;
 }
 
 .new_message_head button:focus {
@@ -131,7 +131,7 @@ h3 {
 .chat-name{
     font-size: 17px;
     font-weight: 600;
-    color: #4aa1f3;
+    color: #ff4d4d;
 }
 
 .message_write {
@@ -153,7 +153,7 @@ h3 {
 }
 
 member_list li:hover {
-    background: #428bca none repeat scroll 0 0;
+    background: #ff4d4d none repeat scroll 0 0;
     color: #fff;
     cursor: pointer;
 }
@@ -277,11 +277,11 @@ member_list li:hover {
 }
 
 .name, .friends, #numOfFriends, .club_name, .club_fans{
-    color: #4aa1f3 !important;
+    color: #ff4d4d3 !important;
 }
 
 .bl {
-    color: #03a9f4;
+    color: #ff4d4d;
     font-weight: 500;
 }
 
@@ -309,11 +309,11 @@ member_list li:hover {
 }
 
 .modal-title{
-    color: #4aa1f3;
+    color: #ff4d4d;
 }
 
 #nameLink, .btn_close{
-    background-color: #4aa1f3 !important;
+    background-color: #ff4d4d !important;
     color: white !important;
 }
 
@@ -336,7 +336,7 @@ member_list li:hover {
 #val{
     cursor: pointer;
     text-decoration: none;
-    color: #4aa1f3;
+    color: #ff4d4d;
 }
 
 .nav-label-icon {
@@ -364,7 +364,7 @@ member_list li:hover {
 }
 
 .dropdown-tag {
-    background: #03A9F4;
+    background: #ff4d4d;
     color: white;
     padding: 4px;
     margin-bottom: 15px;
@@ -389,8 +389,8 @@ member_list li:hover {
 }
 
 .drop-accept {
-    background: #4aa1f3 !important;
-    border: #3bb5ec;
+    background: #ff4d4d !important;
+    border: #ff4d4d;
     color: white !important;
     text-shadow: none;
 }

@@ -30,7 +30,7 @@
 
 .profile-usertitle-job {
     text-transform: lowercase;
-    color: #4aa1f3;
+    color: #ff4d4d;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 15px;
@@ -71,7 +71,7 @@
 }
 
 .profile-usermenu ul li.active a {
-    color: #5b9bd1;
+    color: #ff4d4d;
     background-color: #f6f9fb;
     border-left: 2px solid #5b9bd1;
     margin-left: -2px;
@@ -91,8 +91,8 @@
 }
 
 .save-profile-btn {
-    background: #03A9F4;
-    border: #3bb5ec;
+    background: #ff4d4d;
+    border: #ff4d4d;
     width: 100%;
     text-shadow: none;
     color: white;
@@ -122,7 +122,7 @@
 
 .user-display-head {
     margin-top: 0px;
-    color: #03a9f4;
+    color: #ff4d4d;
 }
 
 .dropdown-img{

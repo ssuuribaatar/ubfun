@@ -14,12 +14,12 @@ body {
 }
 
 .logo-div a{
-    color: #4aa1f3 !important;
+    color: #ff4d4d !important;
     text-decoration: none !important;
 }
 
 .reg-div a{
-    color: #4aa1f3 !important;
+    color: #ff4d4d !important;
     font-size:18px;
     text-decoration:none !important;
     z-index: 1000;
@@ -32,7 +32,7 @@ body {
 }
 
 #main{
-    background: #4aa1f3 !important;
+    background: #ff4d4d !important;
     border: 1px solid white;
     height: 100%;
 /*    min-height: 300px;*/
@@ -91,7 +91,7 @@ form h1 {
 
 
 form h1 {
-    color: #4aa1f3;
+    color: #ff4d4d;
     /*text-shadow: 0 1px 0 #000;*/
     font-size: 35px;
     font-weight: 600;
@@ -103,7 +103,7 @@ form h1 {
 
 form h1 span {
     padding: 5px;
-    background: #0184ff;
+    background: #ff4d4d;
 }
 
 label {
@@ -166,7 +166,7 @@ input[type=checkbox] {
         font-size: 14px;
         display: block;
         float: left;
-        color: #0d93ff;
+        color: #ff4d4d;
         padding-top: 4px;
     }
 
@@ -223,7 +223,7 @@ footer .container .text-muted {
 }
 
 .btn-facebook{
-    background: #4aa1f3;
+    background: #ff4d4d;
     border-radius: 0;
     color: #fff;
     width: 100px;
@@ -232,11 +232,11 @@ footer .container .text-muted {
 .btn-facebook:link, .btn-facebook:visited {
     color: #fff;
     text-decoration: none;
-    background: #4aa1f3;
+    background: #ff4d4d;
 }
 
 .btn-facebook:active, .btn-facebook:hover {
-    background: #4aa1f3;
+    background: #ff4d4d;
     color: #fff;
 }
 

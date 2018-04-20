@@ -30,7 +30,7 @@ module.exports = function(async, Club, Users){
                     dataChunk.push(res1.slice(i, i+chunkSize));
                 }
                 
-                res.render('results', {title: 'Footballkik - Results', user: req.user, chunks: dataChunk});
+                res.render('results', {title: 'Ubfun - Results', user: req.user, chunks: dataChunk});
             })
         },
         
@@ -50,7 +50,7 @@ module.exports = function(async, Club, Users){
                     dataChunk.push(res1.slice(i, i+chunkSize));
                 }
                 
-                res.render('members', {title: 'Footballkik - Members', user: req.user, chunks: dataChunk});
+                res.render('members', {title: 'Ubfun - Members', user: req.user, chunks: dataChunk});
             })
         },
         
@@ -72,7 +72,7 @@ module.exports = function(async, Club, Users){
                     dataChunk.push(res1.slice(i, i+chunkSize));
                 }
                 
-                res.render('members', {title: 'Footballkik - Members', user: req.user, chunks: dataChunk});
+                res.render('members', {title: 'Ubfun - Members', user: req.user, chunks: dataChunk});
             })
         }
     }

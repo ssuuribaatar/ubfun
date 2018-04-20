@@ -41,7 +41,7 @@ module.exports = function(async, Users, Message){
             });
             
             async.parallel([
-                //This function is updated for the receiver of the friend request when it is accepted
+                //энэ функц дуудагдах үед хэрэглэгч хүсэлтийг хүлээн авна
                 function(callback){
                     if(req.body.senderId){
                         Users.update({
@@ -63,7 +63,7 @@ module.exports = function(async, Users, Message){
                     }
                 },
                 
-                //This function is updated for the sender of the friend request when it is accepted by the receiver
+                //Энэ функц нь хүлээн авагчийн зөвшөөрснөөр найзын хүсэлтийг илгээгчдэд шинэчилдэг
                 function(callback){
                     if(req.body.senderId){
                         Users.update({
